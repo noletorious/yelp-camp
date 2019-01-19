@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+    "DATABASEURL": "mongodb://noletorious_db:wkgPszhx3B4FkWg@ds159184.mlab.com:59184/noletorious_yelpcamp"
+  },
+  "formation": {
+  },
+  "name": "yelp_camp",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
