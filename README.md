@@ -1,2 +1,2 @@
-# yelp_camp
-This is the yelp_camp app from Web Developer Bootcamp. Using as an app to recycle and use for other projects.
+# Noletorious - Yelp_camp
+This is the Yelp Camp app from the Colt Steel Web Developer Bootcamp. Using this as an app to recycle and repupose for other projects.
