@@ -25,6 +25,9 @@ router.get("/features", middlewareObj.isLoggedIn, function(req,res){
 //===============
 // USER Authentication logic
 //===============
+router.get("/profile",middlewareObj.isLoggedIn, function(req,res){
+    res.render("profile.ejs");
+});
 
 router.get("/register",function(req,res){
     res.render("register.ejs");
