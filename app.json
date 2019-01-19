@@ -1,0 +1,14 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "formation": {
+  },
+  "name": "yelp_camp",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
